@@ -12,10 +12,10 @@ namespace GyakorloTomb20200506
         static Random rnd = new Random();
         static void Main(string[] args)
         {
-            /*Feladat1(); 
+            Feladat1(); 
             Console.WriteLine("\n------------------------------------------\n");
             Feladat2();
-            Console.WriteLine("\n------------------------------------------\n");*/
+            Console.WriteLine("\n------------------------------------------\n");
             Feladat3();
             Console.ReadKey();
         }
