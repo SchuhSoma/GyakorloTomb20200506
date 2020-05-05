@@ -1,0 +1,7 @@
+C:\Users\Soma\source\repos\GyakorloTomb20200506\GyakorloTomb20200506\bin\Debug\GyakorloTomb20200506.exe.config
+C:\Users\Soma\source\repos\GyakorloTomb20200506\GyakorloTomb20200506\bin\Debug\GyakorloTomb20200506.exe
+C:\Users\Soma\source\repos\GyakorloTomb20200506\GyakorloTomb20200506\bin\Debug\GyakorloTomb20200506.pdb
+C:\Users\Soma\source\repos\GyakorloTomb20200506\GyakorloTomb20200506\obj\Debug\GyakorloTomb20200506.csprojAssemblyReference.cache
+C:\Users\Soma\source\repos\GyakorloTomb20200506\GyakorloTomb20200506\obj\Debug\GyakorloTomb20200506.csproj.CoreCompileInputs.cache
+C:\Users\Soma\source\repos\GyakorloTomb20200506\GyakorloTomb20200506\obj\Debug\GyakorloTomb20200506.exe
+C:\Users\Soma\source\repos\GyakorloTomb20200506\GyakorloTomb20200506\obj\Debug\GyakorloTomb20200506.pdb
